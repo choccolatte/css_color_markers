@@ -1,2 +1,2 @@
 # css_color_markers
-A simplified color markers build using HTML and CSS.
+Simplified color markers build using HTML and CSS.
